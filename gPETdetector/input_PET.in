@@ -1,0 +1,12 @@
+object data file:
+ patientcase/PETConfiguration/config_ro.geo
+outputfile name:
+hits
+beam PSF file:
+patientcase/PETConfiguration/phaseSpace.dat
+photon history (it can be shorter than the PSF file):
+1003000
+Repeat times of phase-space file:
+1
+Device number:
+1

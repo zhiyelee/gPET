@@ -1,0 +1,8 @@
+Photon absorption energy (eV):
+ 1.0e4
+Prefix of all compatible files:
+ input/pre4phot
+Electron absorption energy (eV):
+ 100.0e3
+Prefix of electron compatible files:
+ input/pre4phot 
