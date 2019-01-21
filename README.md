@@ -1,6 +1,6 @@
 # gPET
 GPU version of the PET simualtion
-This is the Version 1.0, which can simulate the decay of the source, the transportation in the phantom and the detector and finally the signals of PET.
+This is the Version 1.0, which can simulate the decay of the source, the transportation of gammas in the phantom and the detector and finally the signals of PET.
 
 Please first run the initialize.sh to compile all the source codes. The CUDA is required before you compile. You may need to revise the Makefile to make the path to the CUDA correct. 
 CUDA_INSTALL_PATH := Your path to cuda installation
